@@ -36,10 +36,6 @@ Pass props through multiple components to build a mockup of a "FundMe"-type webs
 
 1. Open up the repository in VSCode. Follow the instructions below to complete the Lab.
 
-1. Deploy this application to Netlify and add the link to your netlify site below:
-
-- [MY LIVE SITE URL]()
-
 ## Instructions
 
 Inside of the `App.js` file are two variables which will serve as props for your application:
